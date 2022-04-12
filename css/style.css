@@ -1,0 +1,11 @@
+img{  
+    margin-left: 7%;
+}
+a{
+    margin-left: 38%;
+}
+a:hover{
+    opacity: 60%;
+	transition: all 0.3s linear;	
+}
+    

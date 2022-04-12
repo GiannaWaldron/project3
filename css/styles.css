@@ -1,0 +1,41 @@
+.parent {
+    position: sticky;
+    z-index: 1;
+    margin-left: 350px;
+    margin-right: auto;
+  }
+  .image1 {
+    position: absolute;
+    z-index: 3;
+    top: 150px;
+    left: 730px;
+  }
+h1{
+    font-size: 50px;
+    position: absolute;
+    z-index: 2;
+    margin-left: 673px;
+    margin-top: 590px;
+    color: blue;
+    font-family: retro;
+}
+h2{
+    font-size: 50px;
+    position: absolute;
+    z-index: 3;
+    margin-left: 740px;
+    margin-top: 775px;
+    color: blue;
+}
+h3{
+    font-size: 50px;
+    position: absolute;
+    z-index: 4;
+    margin-left: 736px;
+    margin-top: 683px;
+    color: blue;
+}
+@font-face {
+    font-family: retro;
+    src: url(retro.ttf);
+}
