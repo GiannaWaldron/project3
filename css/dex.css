@@ -1,4 +1,4 @@
-#my-img:hover {
-    content: url('img/fire-open.png');
-    max-width: 50%;
+.ball{
+    margin: 20px;
 }
+

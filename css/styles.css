@@ -23,7 +23,7 @@ h1{
     margin-left: 670px;
     margin-top: 590px;
     color: rgb(255, 0, 0);
-    font-family: minecraft;
+    font-family: 'pixel';
 }
 h2{
     font-size: 50px;
@@ -32,7 +32,7 @@ h2{
     margin-left: 740px;
     margin-top: 775px;
     color: rgb(255, 0, 0);
-    font-family: minecraft;
+    font-family: 'pixel';
 }
 h3{
     font-size: 50px;
@@ -41,9 +41,9 @@ h3{
     margin-left: 740px;
     margin-top: 683px;
     color: rgb(255, 0, 0);
-    font-family: minecraft;
+    font-family: "pixel";
 }
 @font-face {
-    font-family: minecraft;
-    src: url('minecraft.ttf');
+    font-family: "pixel";
+    src: url('font/pixel.ttf');
 }
