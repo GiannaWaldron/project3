@@ -10,14 +10,20 @@
     top: 150px;
     left: 730px;
   }
+a{
+    color: rgb(255, 0, 0);
+}
+a:hover{
+    color: rgb(114, 2, 2);
+}
 h1{
     font-size: 50px;
     position: absolute;
     z-index: 2;
-    margin-left: 673px;
+    margin-left: 670px;
     margin-top: 590px;
-    color: blue;
-    font-family: retro;
+    color: rgb(255, 0, 0);
+    font-family: minecraft;
 }
 h2{
     font-size: 50px;
@@ -25,17 +31,19 @@ h2{
     z-index: 3;
     margin-left: 740px;
     margin-top: 775px;
-    color: blue;
+    color: rgb(255, 0, 0);
+    font-family: minecraft;
 }
 h3{
     font-size: 50px;
     position: absolute;
     z-index: 4;
-    margin-left: 736px;
+    margin-left: 740px;
     margin-top: 683px;
-    color: blue;
+    color: rgb(255, 0, 0);
+    font-family: minecraft;
 }
 @font-face {
-    font-family: retro;
-    src: url(retro.ttf);
+    font-family: minecraft;
+    src: url('minecraft.ttf');
 }
