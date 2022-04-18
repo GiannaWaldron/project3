@@ -1,4 +1,30 @@
-.ball{
-    margin: 20px;
+.flex-container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height:200px;
+    column-gap:5%;
+    z-index: 4;
+    row-gap: 70%;
+    margin-top: 70px;
+    margin-right: 60px;
+    margin-left: 50px;
+    align-items: center;
 }
-
+.flex-container2{
+    display:flex;
+    z-index: 1;
+    flex-direction: row;
+    flex-wrap: wrap;
+    opacity: 0;
+    row-gap: -8px;
+    margin-top:-250px;
+    margin-right: 20px;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.flex-container2:hover{
+    opacity: 100;
+}
