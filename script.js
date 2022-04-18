@@ -13,5 +13,14 @@ function get_random_image(){
     selected_image = image_array[random_index]
 
     // Display the image 
-    document.getElementById('image_shower').src = './image/${selected_image}'
+    document.getElementById('test').src = './image/1.png'
+
+    console.log(selected_image)
 }
+console.log("hello")
+
+$(document).ready(function() {
+    var imgContainer = document.querySelector('#container')
+    console.log(imgContainer)
+    
+});
