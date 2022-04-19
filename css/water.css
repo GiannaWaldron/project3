@@ -1,11 +1,24 @@
 
 body{
-    background-color: rgb(2, 50, 138);
+    background-color: rgb(45, 74, 241);
 }
 img{
     width: 450px;
     margin-left: 630px;
+    z-index: 2;
 }
 style{
-    margin-right: 300px;
+    margin-right: 290px;
+    z-index: 2;
+}
+h1{
+    font-size: 165px;
+    font-family: start;
+    color: rgb(255, 251, 251);
+    z-index: 1;
+    transform: rotate(-90deg);
+    position: fixed;
+    margin-left: 1260px;
+    margin-top: 385px;
+    
 }
