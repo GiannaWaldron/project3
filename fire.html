@@ -1,20 +1,19 @@
 <!DOCTYPE html>
 <html lang="en" dir="1tr">
     <head>
-        <title>Fire</title>
-        <script src="script.js"></script>
-    
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/fire.css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fire</title>
+    <script src="script.js"></script>
+    <style>
+        @font-face { font-family: start; src: url('font/slkscre.ttf'); } 
+    </style>
     </head>
 <body>
-    <div id="container">
-        <div id="inner_container">
-            <img id="image_shower"/>
-    </div>
-    <div id="button_container">
-        <button onclick="get_random_image()"> <i class="fas fa-random"></i> </button>
-    </div>
-    </div>
-    <body style="background-color:rgb(245, 22, 22);">
-    
+    <body onclick="getRandomImage();" style="max-width: 800px;">
+        <img src="img/pokeball.png">
+        <span id="result"></span>     
 </body>
 </html>
