@@ -17,33 +17,29 @@ a:hover{
     color: rgb(114, 2, 2);
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
     position: absolute;
     z-index: 2;
-    margin-left: 670px;
+    margin-left: 645px;
     margin-top: 590px;
     color: rgb(255, 0, 0);
-    font-family: 'pixel';
+    font-family: 'start';
 }
 h2{
-    font-size: 50px;
+    font-size: 40px;
     position: absolute;
     z-index: 3;
-    margin-left: 740px;
+    margin-left: 730px;
     margin-top: 775px;
     color: rgb(255, 0, 0);
-    font-family: 'pixel';
+    font-family: 'start';
 }
 h3{
-    font-size: 50px;
+    font-size: 40px;
     position: absolute;
     z-index: 4;
-    margin-left: 740px;
+    margin-left: 730px;
     margin-top: 683px;
     color: rgb(255, 0, 0);
-    font-family: "pixel";
-}
-@font-face {
-    font-family: "pixel";
-    src: url('font/pixel.ttf');
+    font-family: "start";
 }

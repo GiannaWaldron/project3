@@ -1,0 +1,17 @@
+.background{
+    position: fixed;
+    margin-left: 720px; 
+    margin-top: 100px;
+    z-index: 1;
+}
+h1{
+    font-family: start;
+    margin-top: 200px;
+    text-align: justify;
+    line-height: 50px;
+    font-size: 38px;
+    z-index: 2;
+    margin-left: 270px;
+    margin-right: 270px;
+    color: rgb(114, 2, 2)
+}
