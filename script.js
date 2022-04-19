@@ -17,7 +17,7 @@ function getRandomImage() {
     randomImage[9] = "image/10.png";
     randomImage[10] = "image/11.png";
     randomImage[11] = "image/12.png";
-	randomImage[11] = "image/13.png";
+	randomImage[12] = "image/13.png";
 
     for (let i = 0; i < 13; i++) {
         var number = Math.floor(Math.random() * randomImage.length);
