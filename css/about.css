@@ -11,7 +11,19 @@ h1{
     line-height: 50px;
     font-size: 38px;
     z-index: 2;
-    margin-left: 270px;
-    margin-right: 270px;
+    margin-left: 250px;
+    margin-right: 250px;
     color: rgb(114, 2, 2)
+}
+h2{
+    color: rgb(114, 2, 2);
+    font-family: start;
+    font-size: 18px;
+    margin-left: 630px;
+}
+h3{
+    color: rgb(114, 2, 2);
+    font-family: start;
+    font-size: 18px;
+    margin-left: 630px;
 }

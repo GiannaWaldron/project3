@@ -1,0 +1,46 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+html,body{
+	background: rgb(246, 248, 248);
+}
+
+img{
+	position: relative;
+	float:left;
+	width:10%;
+	height:10vw;
+}
+
+h1{
+	font-size: 80px;
+	text-align: center;
+	margin:35px auto;
+	padding:14px;
+	color:rgb(146, 1, 1);
+	background:rgb(246, 246, 247);
+	font-family: start;
+}
+
+select{
+	font-size:20px;
+	margin:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
